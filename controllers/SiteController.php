@@ -61,7 +61,7 @@ class SiteController extends Controller
      */
     public function actionIndex()
     {   
-        return $this->render('/build');
+        return $this->redirect('/build/index.html');
     }
 
     /**

@@ -2,6 +2,7 @@
   "name": "reacts",
   "version": "0.1.0",
   "private": true,
+  "homepage":".",
   "dependencies": {
     "@babel/plugin-proposal-decorators": "^7.4.0",
     "antd": "^3.15.0",
