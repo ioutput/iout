@@ -1,0 +1,6 @@
+/*去除vscode修饰器错误提示*/
+{
+    "compilerOptions": {
+        "experimentalDecorators":true
+    }
+}
